@@ -31,7 +31,7 @@ You are provided with a dataset of images of plant seedlings at various stages o
 - Small-flowered Cranesbill
 - Sugar beet
 
-**** Learning Outcomes ****
+****Learning Outcomes****
  
 - Pre-processing of image data
 - Visualization of images
