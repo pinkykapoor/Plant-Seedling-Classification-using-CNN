@@ -3,6 +3,8 @@ pandas
 matplotlib
 seaborn
 opencv-python
-tensorflow
+tensorflow-macos
+tensorflow-metal
+keras==2.12.0
 keras
 scikit-learn
