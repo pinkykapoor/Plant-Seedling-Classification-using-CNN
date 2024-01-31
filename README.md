@@ -43,3 +43,12 @@ To set up your environment to run this code, you will need to install the necess
 
 ```bash
 pip install -r requirements.txt
+
+
+## Note
+This project includes models trained using both TensorFlow and PyTorch, which are named:
+
+Plant_Seedling_Model.h5
+Plant_Seedling_Model.pth
+Plant_Seedling_Model1.h5
+Plant_Seedling_Model1.pth
