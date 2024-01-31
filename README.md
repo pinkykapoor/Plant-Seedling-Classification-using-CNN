@@ -38,17 +38,22 @@ You are provided with a dataset of images of plant seedlings at various stages o
 - Building the CNN
 - Evaluating the Model
 
+
+  ## Model Files
+
+We have included model files trained on TensorFlow and PyTorch:
+
+- `Plant_Seedling_Model.h5`: TensorFlow model
+- `Plant_Seedling_Model.pth`: PyTorch model
+- `Plant_Seedling_Model1.h5`: Another TensorFlow model
+- `Plant_Seedling_Model1.pth`: Another PyTorch model
+
+## Hosting the Model using Gradio
+
+We have also provided an example of how to host the model using Gradio in the `Plant_Seedling_Classification_Gradio.ipynb` notebook. Gradio allows you to create a simple and user-friendly web interface to interact with your trained model.
+
 ## Installation
 To set up your environment to run this code, you will need to install the necessary Python libraries listed in `requirements.txt`. You can do this by running the following command:
 
 ```bash
 pip install -r requirements.txt
-
-
-## Note
-This project includes models trained using both TensorFlow and PyTorch, which are named:
-
-Plant_Seedling_Model.h5
-Plant_Seedling_Model.pth
-Plant_Seedling_Model1.h5
-Plant_Seedling_Model1.pth
