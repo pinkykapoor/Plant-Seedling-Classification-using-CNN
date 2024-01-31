@@ -39,7 +39,7 @@ You are provided with a dataset of images of plant seedlings at various stages o
 - Evaluating the Model
 
 
-  ## Model Files
+## Model Files
 
 We have included model files trained on TensorFlow and PyTorch:
 
@@ -47,6 +47,15 @@ We have included model files trained on TensorFlow and PyTorch:
 - `Plant_Seedling_Model.pth`: PyTorch model
 - `Plant_Seedling_Model1.h5`: Another TensorFlow model
 - `Plant_Seedling_Model1.pth`: Another PyTorch model
+
+## Running the Project
+
+You can run the project directly from the command terminal using the provided Python script:
+
+- `Plant_Seedlings_Classification.py`: This script allows you to classify plant seedlings using the trained model. You can run it with the following command:
+
+  ```bash
+  python Plant_Seedlings_Classification.py
 
 ## Hosting the Model using Gradio
 
